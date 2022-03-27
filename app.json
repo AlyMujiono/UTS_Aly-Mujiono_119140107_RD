@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "aly-m",
+    "slug": "snack-58da31f0-fb50-4de6-988e-cd1c475f135d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "ALI.PAM"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
